@@ -1,0 +1,9 @@
+﻿  RayTracingHelo.cpp
+d:\shyshy\project\visual studio 2015\projects\raytracinghelo\raytracinghelo\vec3.h(94): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\shyshy\project\visual studio 2015\projects\raytracinghelo\raytracinghelo\vec3.h(252): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\shyshy\project\visual studio 2015\projects\raytracinghelo\raytracinghelo\raytracinghelo.cpp(24): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\shyshy\project\visual studio 2015\projects\raytracinghelo\raytracinghelo\raytracinghelo.cpp(37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\shyshy\project\visual studio 2015\projects\raytracinghelo\raytracinghelo\raytracinghelo.cpp(38): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\shyshy\project\visual studio 2015\projects\raytracinghelo\raytracinghelo\raytracinghelo.cpp(38): warning C4305: “参数”: 从“double”到“float”截断
+  RayTracingHelo.vcxproj -> D:\Shyshy\Project\Visual Studio 2015\Projects\RayTracingHelo\Debug\RayTracingHelo.exe
+  RayTracingHelo.vcxproj -> D:\Shyshy\Project\Visual Studio 2015\Projects\RayTracingHelo\Debug\RayTracingHelo.pdb (Full PDB)
